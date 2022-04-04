@@ -6,16 +6,21 @@ const DATA_CACHE_NAME = 'data-cache-v2';
 //version 0.0.0
 const FILES_TO_CACHE = [
   '/',
-  '/app.js',
+  
   '/index.html',
-  '/favicon.ico',
-  '/manifest.json',
-  '/assets/css/style.css',
-  '/assets/js/loadImages.js',
+  '/models/transaction.js',
+  '/assets/css/styles.css',
+  '/assets/js/idb.js',
   '/assets/images/icons/icon-72x72.png',
   '/assets/images/icons/icon-96x96.png',
   '/assets/images/icons/icon-128x128.png',
   '/assets/images/icons/icon-144x144.png',
+  '/assets/images/icons/icon-152x152.png',
+  '/assets/images/icons/icon-192x192.png',
+  '/assets/images/icons/icon-384x384.png',
+  '/assets/images/icons/icon-512x512.png',
+  '/assets/js/index.js',
+  'routes/api.js'
   
   
 ];
